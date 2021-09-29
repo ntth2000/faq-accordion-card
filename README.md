@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ntth2000/faq-accordion-card/]
+- Live Site URL: [https://ntth2000.github.io/faq-accordion-card/]
 
 ## My process
 
